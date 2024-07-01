@@ -3,7 +3,7 @@
 Este projeto é um sistema de avaliação educacional desenvolvido em colaboração com Erivã e Rodrigo (Rodarc). Ele permite gerenciar alunos, professores, matérias, questões e provas, facilitando a criação, administração e avaliação de avaliações escolares de forma eficiente.
 
 ## Funcionalidades
-
+ 
 - **Cadastro de Alunos, Professores e Matérias**: Registre informações básicas de alunos, professores e defina as disciplinas oferecidas.
   
 - **Criação de Questões e Assuntos**: Desenvolva questões relacionadas a diferentes assuntos dentro das disciplinas.
@@ -16,7 +16,7 @@ Este projeto é um sistema de avaliação educacional desenvolvido em colaboraç
 
 O banco de dados foi modelado utilizando o MySQL Workbench. Abaixo está o modelo visual do banco de dados utilizado neste projeto:
 
-![Modelo do Banco de Dados]([link-para-imagem-do-modelo](https://raw.githubusercontent.com/diegossilva22/SistemaAvaliacao/main/cap-1.PNG))
+![Modelo do Banco de Dados]([link-para-imagem-do-modelo](https://raw.githubusercontent.com/diegossilva22/SistemaAvaliacao/main/cap-1.PNG)
 
 ## Contribuidores
 
