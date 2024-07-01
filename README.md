@@ -16,7 +16,7 @@ Este projeto é um sistema de avaliação educacional desenvolvido em colaboraç
 
 O banco de dados foi modelado utilizando o MySQL Workbench. Abaixo está o modelo visual do banco de dados utilizado neste projeto:
 
-![Modelo do Banco de Dados](link-para-imagem-do-modelo)
+![Modelo do Banco de Dados]([link-para-imagem-do-modelo](https://raw.githubusercontent.com/diegossilva22/SistemaAvaliacao/main/cap-1.PNG))
 
 ## Contribuidores
 
